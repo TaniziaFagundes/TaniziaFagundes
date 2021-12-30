@@ -10,7 +10,7 @@
 - 🔭 &nbsp; Sou Desenvolvedora no Grupo Boticario
 - 🎓 &nbsp; Estudando Engenharia de Software
 - 🌱 &nbsp; Aprendendo mais sobre frameworks Javascript
-- 🌱 &nbsp; No tempo livre  gosto de Natureza, Musica e Netflix
+- 🌱 &nbsp; No meu tempo livre  gosto de Natureza, Musica e Netflix
  
  
   
