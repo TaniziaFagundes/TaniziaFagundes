@@ -1,15 +1,15 @@
-### Oie, Meu Nome é Tanizia 👋
+### Oie, Meu Nome é Tanizia 👋 
 
 <div>
  <a href="https://github.com/TaniziaFagundes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaniziaFagundes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaniziaFagundes&layout=compact&langs_count=8&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TaniziaFagundes&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaniziaFagundes&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 #### Sobre Mim
-- 🔭 &nbsp; Sou Desenvolvedora no Grupo Boticario
-- 🎓 &nbsp; Estudando Engenharia de Software
-- 🌱 &nbsp; Aprendendo mais sobre frameworks Javascript
+- 🔭 &nbsp; Sou Desenvolvedora - atualmente atuo em desenvolvimento Frontend no @grupoboticario
+- 🎓 &nbsp; Estudando Engenharia de Software na Federal do Amazônas
+- 🌱 &nbsp; Aprendendo um pouco mais sobre testes de software, clean code, javascript funcional e reativo.
 - 🌱 &nbsp; No meu tempo livre  gosto de passeios na natureza, musica e netflix
  
  
@@ -31,6 +31,9 @@
  
  
  ![](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+ 
+ 
+🌱 Me siga nas redes sociais
 
 <div> 
     <a href="https://www.linkedin.com/in/taniziafagundes/" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
