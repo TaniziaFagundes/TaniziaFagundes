@@ -3,7 +3,7 @@
 
 #### Sobre Mim
 - 🔭 &nbsp; Sou Desenvolvedora - atualmente atuo em desenvolvimento Frontend no @grupoboticario
-- 🎓 &nbsp; Estudando Engenharia de Software na Universidade Federal do Amazônas 
+- 🎓 &nbsp; Formanda em Engenharia de Software na Universidade Federal do Amazônas 
 - 🌱 &nbsp; Aprendendo um pouco mais sobre testes de software, clean code, javascript funcional e reativo e monitoria de aplicações web
 - 🌱 &nbsp; No meu tempo livre  gosto de passeios na natureza, musica e netflix
  
