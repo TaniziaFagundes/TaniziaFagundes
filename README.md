@@ -1,11 +1,11 @@
-### Oie,Bem vindo(a) ao meu Perfil🖖🏼
+### Oie, Bem vindo(a) ao meu Perfil 🖖🏼
 
 
 #### Sobre Mim
 - 🔭 &nbsp; Sou Desenvolvedora - atualmente atuo em desenvolvimento Frontend no @grupoboticario
 - 🎓 &nbsp; Formanda em Engenharia de Software na Universidade Federal do Amazônas 
-- 🌱 &nbsp; Aprendendo um pouco mais sobre testes de software, clean code, graphql,  javascript funcional e reativo e monitoria de aplicações web
-- 🌱 &nbsp; No meu tempo livre  gosto de passeios na natureza, musica e netflix
+- 🌱 &nbsp; Aprendendo um pouco mais sobre testes de software, clean code, graphql,  javascript funcional e reativo e monitoria de aplicações web.
+- 🌱 &nbsp; No meu tempo livre  gosto de passeios na natureza e netflix
  
  
   
