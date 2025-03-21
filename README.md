@@ -2,10 +2,10 @@
 
 
 #### Sobre Mim
-- 🔭 &nbsp; Sou Desenvolvedora - atualmente atuo em desenvolvimento Frontend no @grupoboticario
+- 🔭 &nbsp; Atualmente atuo em desenvolvimento Frontend no @grupoboticario
 - 🎓 &nbsp; Formanda em Engenharia de Software na Universidade Federal do Amazônas 
-- 🌱 &nbsp; Aprendendo um pouco mais sobre testes de software, clean code, graphql,  javascript funcional e reativo e monitoria de aplicações web.
-- 🌱 &nbsp; No meu tempo livre  gosto de passeios na natureza e netflix
+- 🌱 &nbsp; No meu tempo livre  gosto de passeios na natureza e netflix.
+  
  
  
   
@@ -23,8 +23,11 @@
   <img align="center" alt="Npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Npm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
   <img  align="center" alt="Node" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img align="center" alt="GraphQl" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" />        
+  <img align="center" alt="GraphQl" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain-wordmark.svg" /> 
 </div>
+
+#### Monitoria: 
+Google Analytics, LookerStudio, New Relic
  
  
  
